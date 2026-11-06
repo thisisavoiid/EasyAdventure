@@ -59,7 +59,7 @@
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{d9fa3364-c068-4788-b676-bfef91dac3b3}</ProjectGuid>
-    <RootNamespace>Escaper</RootNamespace>
+    <RootNamespace>EasyAdventure</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>EasyAdventure</ProjectName>
   </PropertyGroup>
