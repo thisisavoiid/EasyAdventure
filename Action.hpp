@@ -8,9 +8,9 @@
 
 class Action {
 public:
-	std::string m_name;                                     // renamed from name
-	std::vector<std::shared_ptr<ActionEvent>> m_events;     // renamed from events
-	std::vector<E_ITEM_KEY> m_requiredItems;                // renamed from requiredItems + ItemKey → E_ITEM_KEY
+	std::string m_name;
+	std::vector<std::shared_ptr<ActionEvent>> m_events;
+	std::vector<E_ITEM_KEY> m_requiredItems;
 
 	void Invoke();
 	bool IsAllowed();
